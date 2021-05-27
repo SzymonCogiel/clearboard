@@ -40,3 +40,9 @@ export const FullScreen: React.FC = () => (
           What?
     </Container>
 );
+
+export const Clock: React.FC = () => (
+    <Container clock style={{ backgroundColor: '#111', color: '#efe' }}>
+         - 00:00 +
+    </Container>
+);

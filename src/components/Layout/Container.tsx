@@ -22,6 +22,6 @@ const Container = styled.div<ContainerProps>`
     height: 100vh;
     width: 100vw;
   ` : ''}
-`;
+  `;
 
 export default Container;
